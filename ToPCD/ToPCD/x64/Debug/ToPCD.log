@@ -1,0 +1,41 @@
+﻿  DeNoising.cpp
+d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\include\pcl-1.9\pcl\visualization\impl\pcl_visualizer.hpp(1545): error C4996: 'vtkMapper::ImmediateModeRenderingOff': 被声明为已否决
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\vtk\include\vtk-8.1\vtkmapper.h(218): note: 参见“vtkMapper::ImmediateModeRenderingOff”的声明
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\include\pcl-1.9\pcl\visualization\pcl_visualizer.h(919): note: 参见对正在编译的函数 模板 实例化“bool pcl::visualization::PCLVisualizer::updatePointCloud<pcl::PointXYZ>(const boost::shared_ptr<const pcl::PointCloud<pcl::PointXYZ>> &,const std::string &)”的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(54): note: 参见对正在编译的 类 模板 实例化 "boost::arg<9>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(53): note: 参见对正在编译的 类 模板 实例化 "boost::arg<8>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(52): note: 参见对正在编译的 类 模板 实例化 "boost::arg<7>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(51): note: 参见对正在编译的 类 模板 实例化 "boost::arg<6>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(50): note: 参见对正在编译的 类 模板 实例化 "boost::arg<5>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(49): note: 参见对正在编译的 类 模板 实例化 "boost::arg<4>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(48): note: 参见对正在编译的 类 模板 实例化 "boost::arg<3>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(47): note: 参见对正在编译的 类 模板 实例化 "boost::arg<2>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(46): note: 参见对正在编译的 类 模板 实例化 "boost::arg<1>" 的引用
+d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\include\pcl-1.9\pcl\visualization\impl\pcl_visualizer.hpp(1664): error C4996: 'vtkMapper::ImmediateModeRenderingOff': 被声明为已否决
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\vtk\include\vtk-8.1\vtkmapper.h(218): note: 参见“vtkMapper::ImmediateModeRenderingOff”的声明
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\include\pcl-1.9\pcl\visualization\pcl_visualizer.h(932): note: 参见对正在编译的函数 模板 实例化“bool pcl::visualization::PCLVisualizer::updatePointCloud<pcl::PointXYZRGB>(const boost::shared_ptr<const pcl::PointCloud<pcl::PointXYZRGB>> &,const pcl::visualization::PointCloudColorHandler<PointT> &,const std::string &)”的引用
+          with
+          [
+              PointT=pcl::PointXYZRGB
+          ]
+  ToPCD.cpp
+d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\include\pcl-1.9\pcl\visualization\impl\pcl_visualizer.hpp(1545): error C4996: 'vtkMapper::ImmediateModeRenderingOff': 被声明为已否决
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\vtk\include\vtk-8.1\vtkmapper.h(218): note: 参见“vtkMapper::ImmediateModeRenderingOff”的声明
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\include\pcl-1.9\pcl\visualization\pcl_visualizer.h(919): note: 参见对正在编译的函数 模板 实例化“bool pcl::visualization::PCLVisualizer::updatePointCloud<pcl::PointXYZ>(const boost::shared_ptr<const pcl::PointCloud<pcl::PointXYZ>> &,const std::string &)”的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(54): note: 参见对正在编译的 类 模板 实例化 "boost::arg<9>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(53): note: 参见对正在编译的 类 模板 实例化 "boost::arg<8>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(52): note: 参见对正在编译的 类 模板 实例化 "boost::arg<7>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(51): note: 参见对正在编译的 类 模板 实例化 "boost::arg<6>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(50): note: 参见对正在编译的 类 模板 实例化 "boost::arg<5>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(49): note: 参见对正在编译的 类 模板 实例化 "boost::arg<4>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(48): note: 参见对正在编译的 类 模板 实例化 "boost::arg<3>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(47): note: 参见对正在编译的 类 模板 实例化 "boost::arg<2>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(46): note: 参见对正在编译的 类 模板 实例化 "boost::arg<1>" 的引用
+d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\include\pcl-1.9\pcl\visualization\impl\pcl_visualizer.hpp(1664): error C4996: 'vtkMapper::ImmediateModeRenderingOff': 被声明为已否决
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\vtk\include\vtk-8.1\vtkmapper.h(218): note: 参见“vtkMapper::ImmediateModeRenderingOff”的声明
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\include\pcl-1.9\pcl\visualization\pcl_visualizer.h(932): note: 参见对正在编译的函数 模板 实例化“bool pcl::visualization::PCLVisualizer::updatePointCloud<pcl::PointXYZRGB>(const boost::shared_ptr<const pcl::PointCloud<pcl::PointXYZRGB>> &,const pcl::visualization::PointCloudColorHandler<PointT> &,const std::string &)”的引用
+          with
+          [
+              PointT=pcl::PointXYZRGB
+          ]
+  正在生成代码...

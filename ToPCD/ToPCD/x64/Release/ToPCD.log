@@ -1,0 +1,26 @@
+﻿  DeNoising.cpp
+d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\flann\include\flann\algorithms\dist.h(522): error C3861: “pop_t”: 找不到标识符
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\flann\include\flann\algorithms\dist.h(522): note: 此诊断出现在编译器生成的函数“flann::HammingPopcnt<T>::ResultType flann::HammingPopcnt<T>::operator ()(Iterator1,Iterator2,size_t,flann::HammingPopcnt<T>::ResultType) const”中
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\flann\include\flann\algorithms\dist.h(526): note: 参见对正在编译的 类 模板 实例化 "flann::HammingPopcnt<T>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(54): note: 参见对正在编译的 类 模板 实例化 "boost::arg<9>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(53): note: 参见对正在编译的 类 模板 实例化 "boost::arg<8>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(52): note: 参见对正在编译的 类 模板 实例化 "boost::arg<7>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(51): note: 参见对正在编译的 类 模板 实例化 "boost::arg<6>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(50): note: 参见对正在编译的 类 模板 实例化 "boost::arg<5>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(49): note: 参见对正在编译的 类 模板 实例化 "boost::arg<4>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(48): note: 参见对正在编译的 类 模板 实例化 "boost::arg<3>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(47): note: 参见对正在编译的 类 模板 实例化 "boost::arg<2>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(46): note: 参见对正在编译的 类 模板 实例化 "boost::arg<1>" 的引用
+  ToPCD.cpp
+d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\flann\include\flann\algorithms\dist.h(522): error C3861: “pop_t”: 找不到标识符
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\flann\include\flann\algorithms\dist.h(522): note: 此诊断出现在编译器生成的函数“flann::HammingPopcnt<T>::ResultType flann::HammingPopcnt<T>::operator ()(Iterator1,Iterator2,size_t,flann::HammingPopcnt<T>::ResultType) const”中
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\flann\include\flann\algorithms\dist.h(526): note: 参见对正在编译的 类 模板 实例化 "flann::HammingPopcnt<T>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(54): note: 参见对正在编译的 类 模板 实例化 "boost::arg<9>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(53): note: 参见对正在编译的 类 模板 实例化 "boost::arg<8>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(52): note: 参见对正在编译的 类 模板 实例化 "boost::arg<7>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(51): note: 参见对正在编译的 类 模板 实例化 "boost::arg<6>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(50): note: 参见对正在编译的 类 模板 实例化 "boost::arg<5>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(49): note: 参见对正在编译的 类 模板 实例化 "boost::arg<4>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(48): note: 参见对正在编译的 类 模板 实例化 "boost::arg<3>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(47): note: 参见对正在编译的 类 模板 实例化 "boost::arg<2>" 的引用
+  d:\zhininghe\apps\pcl-1.9.1\pcl 1.9.1\3rdparty\boost\include\boost-1_68\boost\bind\placeholders.hpp(46): note: 参见对正在编译的 类 模板 实例化 "boost::arg<1>" 的引用
